@@ -41,12 +41,6 @@ int main()
                 z++;
             };
             cin >> a;
-            
-            
-            //for (int i = 0; i < a; i++)
-            //{
-            //    cout << b;
-            //}
 
         }
 
